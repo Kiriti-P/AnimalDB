@@ -3,7 +3,7 @@
   margin: 20px auto;
 }
 .icons8-home {
-  position: sticky;
+  position: fixed;
   font-size: 15px;
   bottom: 0;
 }
