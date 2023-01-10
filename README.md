@@ -5,8 +5,7 @@ AnimalDB is a web application that provides data on a wide range of animals.
 It promotes the idea of respecting and working towards a safer environment for animals.
 
 ## Website
-
-[AnimalDB](theanimaldb.netlify.app)
+theanimaldb.netlify.app
 
 ## Technologies 📡
 
