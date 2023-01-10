@@ -22,4 +22,4 @@ It promotes the idea of respecting and working towards a safer environment for a
 #### Hosting
 
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-```
+
